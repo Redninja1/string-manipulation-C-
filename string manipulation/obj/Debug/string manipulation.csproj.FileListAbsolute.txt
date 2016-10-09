@@ -1,0 +1,9 @@
+c:\users\james\documents\visual studio 2013\Projects\string manipulation\string manipulation\bin\Debug\string manipulation.exe.config
+c:\users\james\documents\visual studio 2013\Projects\string manipulation\string manipulation\bin\Debug\string manipulation.exe
+c:\users\james\documents\visual studio 2013\Projects\string manipulation\string manipulation\bin\Debug\string manipulation.pdb
+c:\users\james\documents\visual studio 2013\Projects\string manipulation\string manipulation\obj\Debug\string manipulation.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2013\Projects\string manipulation\string manipulation\obj\Debug\string_manipulation.Form1.resources
+c:\users\james\documents\visual studio 2013\Projects\string manipulation\string manipulation\obj\Debug\string_manipulation.Properties.Resources.resources
+c:\users\james\documents\visual studio 2013\Projects\string manipulation\string manipulation\obj\Debug\string manipulation.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2013\Projects\string manipulation\string manipulation\obj\Debug\string manipulation.exe
+c:\users\james\documents\visual studio 2013\Projects\string manipulation\string manipulation\obj\Debug\string manipulation.pdb
